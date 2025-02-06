@@ -1,2 +1,2 @@
 # lantosc.github.io
-webite_repo
+website_repo
